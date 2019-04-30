@@ -1,4 +1,5 @@
 import main from '_scripts/main';
+import '_styles/main.scss';
 import * as serviceWorker from './serviceWorker';
 
 // If you want your app to work offline and load faster, you can change
