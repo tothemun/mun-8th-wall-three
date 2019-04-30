@@ -107,19 +107,6 @@ module.exports = {
         ]
       },
       {
-        test: /\.html$/,
-        use: [
-          {
-            loader: 'file-loader',
-            options: {
-              name: '[name].[ext]',
-              publicPath: '../',
-              emitFile: false
-            }
-          }
-        ]
-      },
-      {
         test: /\.(png|jpe?g|gif)$/,
         use: [
           {
