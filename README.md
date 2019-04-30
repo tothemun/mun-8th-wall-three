@@ -1,9 +1,7 @@
+![8th Wall Logo](./8thWallLogo-Grad.png)
 # MUN 8th Wall Web AR Boilerplate
 
 This repo allows us to quickly and easily spin up an 8th Wall Three.js scene
-
-![tapplace-threejs-screenshot](../../../images/screenshot-tap.jpg)
-
 
 ## Stack
 
