@@ -5,12 +5,11 @@ This repo allows us to quickly and easily spin up an 8th Wall Three.js scene
 
 ## Stack
 
-* Webpack 
-* Babel
-* Three.js
-* MUN Three Utils
-
-
+* [Webpack](https://webpack.js.org/)
+* [Postcss](https://postcss.org/)
+* [Babel](https://babeljs.io/)
+* [Three.js](http://threejs.org)
+* [8th Wall](https://www.8thwall.com)
 
 ## Todo:
 
