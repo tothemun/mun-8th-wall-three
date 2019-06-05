@@ -1,3 +1,8 @@
+import * as THREE from 'three';
+import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader';
+import * as TWEEN from '@tweenjs/tween.js';
+console.log(window.THREE);
+
 // Returns a pipeline module that initializes the threejs scene when the camera feed starts, and
 // handles subsequent spawning of a glb model whenever the scene is tapped.
 const placegroundScenePipelineModule = () => {
@@ -8,7 +13,7 @@ const placegroundScenePipelineModule = () => {
 
   const raycaster = new THREE.Raycaster()
   const tapPosition = new THREE.Vector2()
-  const loader = new THREE.GLTFLoader()  // This comes from GLTFLoader.js.
+  const loader = new GLTFLoader()  // This comes from GLTFLoader.js.
 
   let surface  // Transparent surface for raycasting for object placement.
 
