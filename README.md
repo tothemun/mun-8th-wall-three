@@ -13,7 +13,8 @@ This repo allows us to quickly and easily spin up an 8th Wall Three.js scene
 6. Develop
 
 ## Production Build
-_Coming Soon_
+1. Run `npm run build`
+2. Production build is is `./dist`
 
 ## Stack
 
