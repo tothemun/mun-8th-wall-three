@@ -1,5 +1,5 @@
 {
-  "name": "wsj-ar-demo",
+  "name": "mun-8th-wall-three",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tothemun/wsj-ar-demo.git"
+    "url": "git+https://github.com/tothemun/mun-8th-wall-three.git"
   },
   "author": "Jonathan Blair",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tothemun/wsj-ar-demo/issues"
+    "url": "https://github.com/tothemun/mun-8th-wall-three/issues"
   },
-  "homepage": "https://github.com/tothemun/wsj-ar-demo#readme",
+  "homepage": "https://github.com/tothemun/mun-8th-wall-three#readme",
   "dependencies": {
     "@tweenjs/tween.js": "^17.3.0",
     "three": "^0.104.0"
