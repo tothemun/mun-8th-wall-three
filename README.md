@@ -4,7 +4,7 @@
 This repo allows us to quickly and easily spin up an 8th Wall Three.js scene
 
 ## Development
-1. Duplicate Repo
+1. Fork Repo
 2. `npm i`
 3. Create `.env` file in root
 4. Add your 8th Wall App Key as `APP_8THWALL_API_KEY=YOURKEYHERE` to .env
