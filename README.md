@@ -1,4 +1,6 @@
-![8th Wall Logo](./8thWallLogo-Grad.png)
+![8th Wall Logo](./8thWallLogo-Grad.png#first-logo)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![MUN Logo](./mun-logo.png)
 # MUN 8th Wall Web AR Boilerplate
 
 This repo allows us to quickly and easily spin up an 8th Wall Three.js scene
