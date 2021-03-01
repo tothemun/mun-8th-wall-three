@@ -19,7 +19,7 @@
   "homepage": "https://github.com/tothemun/mun-8th-wall-three#readme",
   "dependencies": {
     "@tweenjs/tween.js": "^17.3.0",
-    "three": "^0.104.0"
+    "three": "^0.125.0"
   },
   "devDependencies": {
     "@babel/core": "^7.4.4",
